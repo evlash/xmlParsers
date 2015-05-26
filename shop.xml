@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<shop>
+    <goods id="1">
+        <name>Гречка</name>
+        <priсe>25</priсe>
+        <category>Крупа</category>
+        <description>Купянская</description>
+    </goods>
+    <goods id="2">
+        <name>Молоко</name>
+        <priсe>12</priсe>
+        <category>Жидкость</category>
+        <description>Богодуховское</description>
+    </goods>
+    <goods id="3">
+        <name>Коньяк</name>
+        <priсe>150</priсe>
+        <category>Спиртное</category>
+        <description>3 звезды</description>
+    </goods>
+    <goods id="4">
+        <name>Хлеб</name>
+        <priсe>5</priсe>
+        <category>Хлебобулочные изделия</category>
+        <description>Бородтнский</description>
+    </goods>
+    <goods id="5">
+        <name>Яблоки</name>
+        <priсe>12</priсe>
+        <category>Фрукты</category>
+        <description>Антоновка</description>
+    </goods>
+</shop>
